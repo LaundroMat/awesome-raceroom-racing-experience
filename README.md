@@ -20,8 +20,8 @@ A curated list of awesome R3E stuff
 
 # Community racing
 
-* [All the tools a community needs to run fun and competitive events](https://www.justrace.net/)
-* 
+* [https://www.justrace.net/](All the tools a community needs to run fun and competitive events)
+
 
 # Dedicated server API
 
