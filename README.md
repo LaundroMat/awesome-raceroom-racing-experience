@@ -3,9 +3,14 @@ A curated list of awesome R3E stuff
 
 # Tools and apps
 
+## Bots
+
+* [RaceRoom Community Bot](https://forum.sector3studios.com/index.php?threads/raceroom-community-bot-updated.16045/): It is able to show multiplayer ranks (rating, reputation and position), profile information, search for profiles, easy access to leaderboards (as those aren't easy to find on mobile), car and track information, ranked multiplayer server info, the latest schedule...
+
 ## Dashboards & telemetry
 
 * [Proracing Web Dashboard](http://telemetry.justrace.net/)
+* [Racing Sim Tools](https://racingsimtools.com/):The RST Software is essentially a Pre-Configured MoTeC replacement built with Sim Racers in mind. 
 * [SecondMonitor](https://forum.sector3studios.com/index.php?threads/secondmonitor-timing-status-app.9587/): Timing & status App
 * [Z1](https://z1simwheel.com/dashboard/index.cfm): The Dashboard & Telemetry Analysis Suite For Every Sim Racer
 
@@ -43,3 +48,11 @@ whitelist, and penalty rules for incidents.
 
 * [RaceRoom Race Experience multiplayer API documentation](https://www.notion.so/RaceRoom-Race-Experience-multiplayer-API-documentation-adc61a49f84242f584ea74c9eb034ad3)
 
+## FFB
+
+* [FFB Guide](https://forum.sector3studios.com/index.php?threads/ffb-guide-december-2019.14067/): FFB guide by Sector3 developer Thomas Jansen
+
+## VR
+
+* [VR Performance Tweaks & Tips](https://forum.sector3studios.com/index.php?threads/vr-performance-tweaks-tips.13068/)
+ 
