@@ -1,4 +1,4 @@
-# awesome-raceroom-racing-experience
+# 🏁 Awesome Raceroom Racing Experience
 A curated list of awesome R3E stuff
 
 ![GitHub Logo](https://prod.r3eassets.com/static/img/download-game-banner.jpg)
@@ -73,4 +73,8 @@ whitelist, and penalty rules for incidents.
 
 * [VR Performance Tweaks & Tips](https://forum.sector3studios.com/index.php?threads/vr-performance-tweaks-tips.13068/)
  
+ 
+ ---
+ 
+Suggestions or feedback? [Open an issue](https://github.com/LaundroMat/awesome-raceroom-racing-experience/issues/new/choose).
 
