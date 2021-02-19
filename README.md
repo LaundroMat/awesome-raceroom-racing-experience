@@ -30,7 +30,7 @@ whitelist, and penalty rules for incidents.
 
 ## Event management
 
-* [https://www.justrace.net/](All the tools a community needs to run fun and competitive events)
+* [justrace.net](https://www.justrace.net/): All the tools a community needs to run fun and competitive events
 
 
 ## Dedicated server hosting
