@@ -15,6 +15,7 @@ A curated list of awesome R3E stuff
   * [Server renting](#server-renting)
 
 * [Guides](#guides)
+  * [Car setup](#car-setup)
   * [Dedicated server API](#dedicated-server-api)
   * [FFB](#ffb)
   * [VR](#vr)
@@ -60,6 +61,10 @@ whitelist, and penalty rules for incidents.
 * [The Dollar Racing Club](https://dollarracing.club): Rent a dedicated server
 
 # Guides
+
+## Car setup
+
+* [Damper tuning using logged lap data](https://forum.sector3studios.com/index.php?threads/damper-tuning-using-logged-lap-data.16530/)
 
 ## Dedicated server API
 
