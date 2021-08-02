@@ -28,6 +28,7 @@ A curated list of awesome R3E stuff
 
 ## Dashboards and telemetry
 
+* [Dashpanel](https://www.pyrofrogstudios.com/dashpanel.html): Customizable dashboards for simracing
 * [Proracing Web Dashboard](http://telemetry.justrace.net/)
 * [Racing Sim Tools](https://racingsimtools.com/):The RST Software is essentially a Pre-Configured MoTeC replacement built with Sim Racers in mind. 
 * [SecondMonitor](https://forum.sector3studios.com/index.php?threads/secondmonitor-timing-status-app.9587/): Timing & status App
